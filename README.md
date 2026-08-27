@@ -42,9 +42,9 @@ The project follows these main steps:
 
 Calculate three customer-level metrics:
 
-- **Recency** — how recently the customer made a purchase
-- **Frequency** — number of unique orders
-- **Monetary** — total revenue generated
+- **Recency** : how recently the customer made a purchase
+- **Frequency** : number of unique orders
+- **Monetary** : total revenue generated
 
 Each metric is converted into a 1–5 score, with higher scores representing stronger customer behavior.
 
